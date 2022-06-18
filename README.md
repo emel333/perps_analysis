@@ -23,8 +23,6 @@ Multiple traders were shown to have traded numerous times in a single second, su
 
 ![alt text](https://github.com/emel333/perps_analysis/blob/main/visuals/trades_per_second.png "Trades Per Second: Perpetual Protocol v2 (sample size:1000 trades)")
 
-https://github.com/emel333/perps_analysis/blob/main/visuals/trades_per_second.png
-
 ## The majority of traders either take losses or break even
 
 Despite presense of HFT, most traders didn't fare well, with a mean realizedPnl of -0.709529. The visuals below help to paint the picture as well.
